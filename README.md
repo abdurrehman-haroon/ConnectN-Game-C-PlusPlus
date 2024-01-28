@@ -60,6 +60,7 @@ This C++ program implements a simplified version of the Connect-N game, a classi
    - **Exit (4):** Exits the program.
 
 ## Note
+- The game has some issues and unresolved errors.
 - The game state is not saved automatically; the user must choose to save the game explicitly.
 - Ensure the program has write access to the specified file paths when saving.
 - The game continues until a player wins or the user chooses to exit.
